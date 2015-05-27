@@ -1,0 +1,13 @@
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\bin\Debug\FareManagementApplication.exe.config
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\bin\Debug\FareManagementApplication.exe
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\bin\Debug\FareManagementApplication.pdb
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.csprojResolveAssemblyReference.cache
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.FareManagementForm.resources
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.Properties.Resources.resources
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.csproj.GenerateResource.Cache
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.exe
+c:\users\anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.pdb
+C:\Users\Anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.UI.VisitorEntryForm.resources
+C:\Users\Anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.UI.ZoneSpecificVisitorInformationForm.resources
+C:\Users\Anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.UI.ZoneTypeEntryForm.resources
+C:\Users\Anik\documents\visual studio 2012\Projects\FareManagementApplication\FareManagementApplication\obj\Debug\FareManagementApplication.UI.ZoneWiseVisitorNumberForm.resources
